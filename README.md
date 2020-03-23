@@ -8,3 +8,5 @@ This page is for documenting all the reading notes from each class.
 ### Class 02 Reading: https://iptmh.github.io/reading-notes/class-02-reading
 
 ### Class 03 Reading: https://iptmh.github.io/reading-notes/class-03-reading
+
+### Class 04 Reading: https://iptmh.github.io/reading-notes/class-04-reading
