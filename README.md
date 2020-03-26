@@ -11,4 +11,4 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 04 Reading (Advanced Mongo/Mongoose) : https://iptmh.github.io/reading-notes/class-04-reading
 
-### Class 05 Reading (DSA: Linked Lists) : https://iptmh.github.io/reading-notes/class-05-reading
+#### Class 05 Reading (DSA: Linked Lists) : https://iptmh.github.io/reading-notes/class-05-reading
