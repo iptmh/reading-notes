@@ -14,3 +14,6 @@ This page is for documenting all the reading notes from each class.
 #### Class 05 Reading (DSA: Linked Lists) : https://iptmh.github.io/reading-notes/class-05-reading
 
 #### Class 06 Reading (HTTP and REST) :https://iptmh.github.io/reading-notes/class-06-reading
+
+#### Class 07 Reading (Express) :https://iptmh.github.io/reading-notes/class-07-reading
+
