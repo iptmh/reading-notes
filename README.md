@@ -19,3 +19,6 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 08 Reading (Express Routing & Connected API) :https://iptmh.github.io/reading-notes/class-08-reading
 
+#### Class 09 Reading (API Server) :https://iptmh.github.io/reading-notes/class-09-reading
+
+
