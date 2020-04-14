@@ -21,4 +21,6 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 09 Reading (API Server) :https://iptmh.github.io/reading-notes/class-09-reading
 
+#### Class 10 Reading (Authentication) :https://iptmh.github.io/reading-notes/class-10-reading
+
 
