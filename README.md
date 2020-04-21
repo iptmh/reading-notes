@@ -25,4 +25,6 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 11 Reading (DSA: Stacks and Queues) :https://iptmh.github.io/reading-notes/class-11-reading
 
+#### Class 12 Reading (OAuth) :https://iptmh.github.io/reading-notes/class-12-reading
+
 
