@@ -4,8 +4,8 @@
 OAuth is more secure and efficient than basic authentication.
 
 #### Write the following steps in the correct order:
--Ask the client if they want to sign in via a third party
--Redirect to a third party authentication endpoint
+- Ask the client if they want to sign in via a third party
+- Redirect to a third party authentication endpoint
 -Receive authroization code
 -Make a request to a third-party API endpoint
 -Make a request to the access token endpoint
