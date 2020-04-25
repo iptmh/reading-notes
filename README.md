@@ -27,4 +27,6 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 12 Reading (OAuth) :https://iptmh.github.io/reading-notes/class-12-reading
 
+#### Class 13 Reading (Bearer Authorization) :https://iptmh.github.io/reading-notes/class-13-reading
+
 
