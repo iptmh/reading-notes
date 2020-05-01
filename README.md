@@ -31,5 +31,7 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 14 Reading (Access Control (ACL)) :https://iptmh.github.io/reading-notes/class-14-reading
 
+#### Class 15 Reading (Access Control (ACL)) :https://iptmh.github.io/reading-notes/class-15-reading
+
 
 
