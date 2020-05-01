@@ -4,9 +4,9 @@
 A leaf Node is a Node without any subsequent edges / connections. It is important because for recursion function, the process continues until we hit a leaf node.
 
 #### Describe the differences between pre-order, in-order, and post-order traversal. Why are they called pre, in, and post order?
-Pre-order: root >> left >> right
-In-order: left >> root >> right
-Post-order: left >> right >> root
+- Pre-order: root >> left >> right
+- In-order: left >> root >> right
+- Post-order: left >> right >> root
 
 Pre goes from top (root) to bottom. In goes from left to right. Post goes from bottom (leaf node to top).
 
