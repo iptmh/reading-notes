@@ -31,11 +31,11 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 14 Reading (Access Control (ACL)) :https://iptmh.github.io/reading-notes/class-14-reading
 
-#### Class 15 Reading (Access Control (ACL)) :https://iptmh.github.io/reading-notes/class-15-reading
+#### Class 15 Reading (Tree) :https://iptmh.github.io/reading-notes/class-15-reading
 
 #### Class 16 Reading (Event Driven Applications) :https://iptmh.github.io/reading-notes/class-16-reading
 
-#### Class 17 Reading (Transmission Control Protocol Server) :https://iptmh.github.io/reading-notes/class-17-reading
+#### Class 17 Reading (Transmission Control Protocol (TCP) Server) :https://iptmh.github.io/reading-notes/class-17-reading
 
 
 
