@@ -37,5 +37,7 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 17 Reading (Transmission Control Protocol (TCP) Server) :https://iptmh.github.io/reading-notes/class-17-reading
 
+#### Class 18 Reading (Socket.io) :https://iptmh.github.io/reading-notes/class-18-reading
+
 
 
