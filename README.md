@@ -39,5 +39,7 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 18 Reading (Socket.io) :https://iptmh.github.io/reading-notes/class-18-reading
 
+#### Class 19 Reading (Message Queues) :https://iptmh.github.io/reading-notes/class-19-reading
+
 
 
