@@ -1,4 +1,4 @@
-*** Message Queues ***
+### *Message Queues*
 
 #### What is the main benefit of a message queue server?
 A message queue server (or simply, queue server) runs independently and is tasked with routing events and messaging between clients. Any connected client can publish a message to the server, or subscribe to certain types of messages. This makes it easier to grow our application, and it means our clients can be even more lightweight.
