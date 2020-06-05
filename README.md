@@ -41,5 +41,7 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 19 Reading (Message Queues) :https://iptmh.github.io/reading-notes/class-19-reading
 
+#### Class 20 Reading (Component Based UI) :https://iptmh.github.io/reading-notes/class-20-reading
+
 
 
