@@ -43,6 +43,8 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 21 Reading (Component Based UI) :https://iptmh.github.io/reading-notes/class-21-reading
 
+#### Class 22 Reading (React Testing and Deployment) :https://iptmh.github.io/reading-notes/class-22-reading
+
 
 
 
