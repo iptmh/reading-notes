@@ -45,6 +45,8 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 22 Reading (React Testing and Deployment) :https://iptmh.github.io/reading-notes/class-22-reading
 
+#### Class 23 Reading (Props and State) :https://iptmh.github.io/reading-notes/class-23-reading
+
 
 
 
