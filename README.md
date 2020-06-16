@@ -47,6 +47,8 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 23 Reading (Props and State) :https://iptmh.github.io/reading-notes/class-23-reading
 
+#### Class 24 Reading (Routing and Component) :https://iptmh.github.io/reading-notes/class-24-reading
+
 
 
 
