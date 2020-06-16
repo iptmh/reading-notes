@@ -4,10 +4,6 @@
 Because React app is composed of components.And we can use the package react-router-dom to build a multi page app.
 
 #### If we wanted a component to show up on every page, where would we put it and why?
-Outside the <BrowserRouter/>
-Inside the <BrowserRouter />, outside a <Route />
-Inside a <Route />
-
 Inside the <BrowserRouter />, outside a <Route />
 
 #### What does props.children contain?
