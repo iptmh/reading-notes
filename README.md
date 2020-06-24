@@ -51,6 +51,8 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 25 Reading (DSA: HashTables) :https://iptmh.github.io/reading-notes/class-25-reading
 
+#### Class 26 Reading (Hooks API) :https://iptmh.github.io/reading-notes/class-26-reading
+
 
 
 
