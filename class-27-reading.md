@@ -1,4 +1,4 @@
-### *Hooks API*
+### *React Custom Hooks*
 
 #### Why do custom hooks need the use prefix?
 All custom hooks must start with the word “use”. This tells the React linter that it is acceptable for that function to utilize other hook functions inside of it. 
