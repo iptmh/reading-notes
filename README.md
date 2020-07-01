@@ -55,6 +55,8 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 27 Reading (React Custom Hooks) :https://iptmh.github.io/reading-notes/class-27-reading
 
+#### Class 28 Reading (Context API) :https://iptmh.github.io/reading-notes/class-28-reading
+
 
 
 
