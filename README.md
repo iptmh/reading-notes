@@ -57,6 +57,8 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 28 Reading (Context API) :https://iptmh.github.io/reading-notes/class-28-reading
 
+#### Class 29 Reading (Application State with Redux) :https://iptmh.github.io/reading-notes/class-29-reading
+
 
 
 
