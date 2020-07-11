@@ -59,6 +59,8 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 29 Reading (Application State with Redux) :https://iptmh.github.io/reading-notes/class-29-reading
 
+#### Class 30 Reading (Graphs) :https://iptmh.github.io/reading-notes/class-30-reading
+
 
 
 
