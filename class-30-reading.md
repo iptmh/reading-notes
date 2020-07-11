@@ -24,8 +24,8 @@ Cyclic: A graph is cyclic if the graph comprises a path that starts from a verte
 
 Real World Uses of Graphs:
 
-GPS and Mapping
-Driving Directions
-Social Networks
-Airline Traffic
-Netflix uses graphs for suggestions of products
++ GPS and Mapping
++ Driving Directions
++ Social Networks
++ Airline Traffic
++ Netflix uses graphs for suggestions of products
