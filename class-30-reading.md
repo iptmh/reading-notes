@@ -21,3 +21,11 @@ Directed: A directed graph is a graph in which all the edges are uni-directional
 Weighted: In a weighted graph, each edge is assigned a weight or cost. 
 
 Cyclic: A graph is cyclic if the graph comprises a path that starts from a vertex and ends at the same vertex. That path is called a cycle. An acyclic graph is a graph that has no cycle.
+
+Real World Uses of Graphs:
+
+GPS and Mapping
+Driving Directions
+Social Networks
+Airline Traffic
+Netflix uses graphs for suggestions of products
