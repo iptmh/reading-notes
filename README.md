@@ -61,6 +61,6 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 30 Reading (Graphs) :https://iptmh.github.io/reading-notes/class-30-reading
 
-
+#### Class 31 Reading (GRedux - Combined Reducers) :https://iptmh.github.io/reading-notes/class-31-reading
 
 
