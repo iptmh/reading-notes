@@ -63,6 +63,8 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 31 Reading (Redux - Combined Reducers) :https://iptmh.github.io/reading-notes/class-31-reading
 
+#### Class 32 Reading (Redux - Asynchronous Actions) :https://iptmh.github.io/reading-notes/class-32-reading
+
 
 
 
