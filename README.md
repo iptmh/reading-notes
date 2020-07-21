@@ -65,6 +65,8 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 32 Reading (Redux - Asynchronous Actions) :https://iptmh.github.io/reading-notes/class-32-reading
 
+#### Class 33 Reading (Redux Toolkit) :https://iptmh.github.io/reading-notes/class-33-reading
+
 
 
 
