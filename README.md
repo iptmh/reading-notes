@@ -67,6 +67,8 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 33 Reading (Redux Toolkit) :https://iptmh.github.io/reading-notes/class-33-reading
 
+#### Class 34 Reading (React Native) :https://iptmh.github.io/reading-notes/class-34-reading
+
 
 
 
