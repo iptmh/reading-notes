@@ -69,6 +69,8 @@ This page is for documenting all the reading notes from each class.
 
 #### Class 34 Reading (React Native) :https://iptmh.github.io/reading-notes/class-34-reading
 
+#### Class 36 Reading (Gatsby, next.js, and other JS Frameworks) :https://iptmh.github.io/reading-notes/class-36-reading
+
 
 
 
